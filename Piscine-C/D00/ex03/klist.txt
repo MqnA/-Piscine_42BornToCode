@@ -1,0 +1,5 @@
+Credentials cache: API:18489
+        Principal: mavagner@42.FR
+
+  Issued                Expires               Principal
+Jul  4 15:53:38 2016  Jul  5 01:53:40 2016  krbtgt/42.FR@42.FR
